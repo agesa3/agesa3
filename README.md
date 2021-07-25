@@ -36,11 +36,11 @@
 <img src="https://img.shields.io/badge/sqlite-7CBEE4.svg?&style=for-the-badge&logo=sqlite&logoColor=white" height="25"/>
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" height="25"/>
 </p>
-<!-- 
+
 ### ⚡ GitHub Statistics
 
 <p align="center"> 
     <img src="https://github-readme-stats.vercel.app/api?username=agesa3&count_private=true&show_icons=true&theme=buefy" alt="agesa3" width="420"/> 
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agesa3&hide=jupyter%20notebook&langs_count=8&layout=compact&theme=buefy" alt="agesa3" height="165" />
- </p> -->
+ </p>
 
