@@ -2,7 +2,7 @@
 <h3 align="center">A Software developer. <img src="https://image.flaticon.com/icons/svg/630/630611.svg" width="14"/> </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agesa3" alt="agesa collins" /> </p>
 
-- 🔭 I’m currently working on Java/Kotlin Mobile Apps
+- 🔭 I’m currently working on Java/Kotlin Mobile Apps and Frontend Design with React Js/Next Js
 - 👯 Looking forward to collaborate on fun projects
 - 🌱 I’m currently learning [Node js](https://nodejs.org/en/)  and [React js](https://reactjs.org/) 
 - 📫 How to reach me:
