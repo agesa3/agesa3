@@ -18,7 +18,9 @@
   </a>&nbsp;&nbsp;
  </p>
  
-- ⚡Fun fact: 😄😄😄😄
+<h2 align="center">Some statistics from GitHub</h2></br>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=agesa3&margin-w=35)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### Languages and Tools:
 
